@@ -16,6 +16,14 @@ metadata:
 
 # Human Image Direction
 
+> **Owner override (2026-10-13, seadanse):** no freckles, moles, spots,
+> blemishes or redness on any woman — skin is clean and even,
+> Instagram-retouched, with fine real texture (never plastic). Ignore the
+> "signature mark / mole / freckle" examples in §1 and the realism menu's
+> blemish cues for this owner. Cast references are 4K character sheets
+> (see page-pipeline `references/cast.md`, "Reference sheet standard").
+
+
 ## North star: 用造型表达吸引力
 
 Attraction is **designed**, not labeled. Never stack "sexy / hot /
